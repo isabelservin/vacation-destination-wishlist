@@ -42,8 +42,9 @@
     margin-top: 20px;
     height: fit-content;
     background-color: #f5f7f4;
-    padding: 20px;
+    padding: 45px;
     min-height: calc(100vh - 300px);
+    width: 45%
 
 }
 
@@ -70,8 +71,9 @@
     margin-right: 25px;
     background-color: #eaece4;
     padding-top: 20px;
-    padding-left: 15px;
+    padding-left: 23px;
     padding-right: 300px;
+    width: 50%;
 }
 
 
